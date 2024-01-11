@@ -1,32 +1,48 @@
-<h1 align="center">Hi 👋, zw1tt3r1on here!</h1>
-<h3 align="center">
-  Penetration Tester||Bug Bounty Hunter||CTF Player<br><br>
+<pre align="center">
+               _ _   _   _____      _             
+ ______      _/ | |_| |_|___ / _ __/ | ___  _ __  
+|_  /\ \ /\ / / | __| __| |_ \| '__| |/ _ \| '_ \ 
+ / /  \ V  V /| | |_| |_ ___) | |  | | (_) | | | |
+/___|  \_/\_/ |_|\__|\__|____/|_|  |_|\___/|_| |_|
+</pre>
+                                                
+<h2 align="center">
+  Penetration Tester || Bug Bounty Hunter || CTF Player<br><br>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/zw1tt3r1on.png" alt="TryHackMe"><br>
 
 <img src="https://raw.githubusercontent.com/zw1tt3r1on/zw1tt3r1on/main/hackthebox-hacker%20rank.png" alt="HackTheBox"><br>
+</h2>
+
+---
+
+<h3 align="center">📝 You can view some of my articles here <a href="https://zw1tt3r1on.github.io/">https://zw1tt3r1on.github.io/</a></h3>
+
+<h3 align="center">📫 You can reach me on <b></b>zw1tt3r1on@proton.me</b> </h2>
+
+---
+
+<h2 align="center">⚡Bug Bounty Profiles⚡</h2>
+
+<h3 align="center">
+  <a href="https://hackerone.com/zw1tt3r1on">HackerOne</a> <br><br>
+  <a href="https://bugcrowd.com/zw1tt3r1on">Bugcrowd</a> <br>
 </h3>
 
-- 📝 You can view some of my articles on [https://zw1tt3r1on.github.io/](https://zw1tt3r1on.github.io/)
+---
 
-- 📫 You can reach me on **zw1tt3r1on@proton.me**
+<h2 align="center">✨Certifications✨</h3>
 
-<h3>⚡Bug Bounty Profiles⚡</h3>
+<h3 align="center"> eWPT </h3>
 
-- [Hackerone Profile](https://hackerone.com/zw1tt3r1on)
+<h3 align="center"> eCPPTv2 </h3>
 
-- [Bugcrowd Profile](https://bugcrowd.com/zw1tt3r1on)
+<h3 align="center"> eWPTXv2 </h3>
 
-<h3>✨Certifications✨</h3>
+---
 
-- eWPT
-
-- eCPPTv2
-
-- eWPTXv2
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h2 align="center">Languages and Tools</h2>
+<p align="center">
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -40,8 +56,11 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a
- 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+</p>
+
+---
+
 <!--
 **zw1tt3r1on/zw1tt3r1on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
