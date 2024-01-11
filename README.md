@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, zw1tt3r1on here!</h1>
 <h3 align="center">Penetration Tester||Bug Bounty Hunter||CTF Player<br><br>
-  <script src="https://tryhackme.com/badge/106110" alt="TryHackMe"></script>
-  <script src="https://app.hackthebox.com/profile/958566" alt="Hack The Box"></script>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/zw1tt3r1on.png" alt="TryHackMe">
+  ![HackTheBox](https://github.com/zw1tt3r1on/zw1tt3r1on/assets/64955404/329e07f6-d492-412d-900b-aff53109e48b)
 
 <!--
 **zw1tt3r1on/zw1tt3r1on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
