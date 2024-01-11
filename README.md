@@ -13,9 +13,9 @@
 
 <h3>⚡Bug Bounty Profiles⚡</h3>
 
-- [Hackerone Profile] (https://hackerone.com/zw1tt3r1on)
+- [Hackerone Profile](https://hackerone.com/zw1tt3r1on)
 
-- [Bugcrowd Profile] (https://bugcrowd.com/zw1tt3r1on)
+- [Bugcrowd Profile](https://bugcrowd.com/zw1tt3r1on)
 
 <h3>✨Certifications✨</h3>
 
