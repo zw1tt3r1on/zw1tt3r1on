@@ -10,13 +10,13 @@
 - 📫 You can reach me on **zw1tt3r1on@proton.me**
 
 <h3> Bug Bounty Profiles </h3>
-- [Hackerone Profile](https://hackerone.com/zw1tt3r1on)
-- [Bugcrowd Profile](https://bugcrowd.com/zw1tt3r1on)
+- [Hackerone Profile](https://hackerone.com/zw1tt3r1on)<br>
+- [Bugcrowd Profile](https://bugcrowd.com/zw1tt3r1on)<br>
 
 <h3>✨Certifications✨</h3>
-- eWPT
-- eCPPTv2
-- eWPTXv2
+- eWPT<br>
+- eCPPTv2<br>
+- eWPTXv2<br>
 
 <!--
 **zw1tt3r1on/zw1tt3r1on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
