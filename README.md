@@ -5,13 +5,18 @@
   <img src="https://raw.githubusercontent.com/zw1tt3r1on/zw1tt3r1on/main/hackthebox-hacker%20rank.png" alt="HackTheBox"><br>
 </h3>
 
-- 📝 I regularly write articles on [https://zw1tt3r1on.github.io/](https://zw1tt3r1on.github.io/)
+- 📝 You can view some of my articles on [https://zw1tt3r1on.github.io/](https://zw1tt3r1on.github.io/)
 
-- 📫 How to reach me **zw1tt3r1on@proton.me**
+- 📫 You can reach me on **zw1tt3r1on@proton.me**
 
+<h3> Bug Bounty Profiles </h3>
 - [Hackerone Profile](https://hackerone.com/zw1tt3r1on)
 - [Bugcrowd Profile](https://bugcrowd.com/zw1tt3r1on)
 
+<h3>✨Certifications✨</h3>
+- eWPT
+- eCPPTv2
+- eWPTXv2
 
 <!--
 **zw1tt3r1on/zw1tt3r1on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
