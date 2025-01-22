@@ -42,6 +42,16 @@
 
 <h3 align="center"> eWPTXv2 </h3>
 
+<h3 align="center"> eMAPT </h3>
+
+<h3 align="center"> CRTP </h3>
+
+<h3 align="center"> BSCP </h3>
+
+<h3 align="center"> HTB CPTS </h3>
+
+<h3 align="center"> OSCP </h3>
+
 ---
 
 <h2 align="center">Languages and Tools</h2>
